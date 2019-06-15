@@ -4,7 +4,7 @@ The developed tool is capable of the following:
 - Feature extraction processing and simplifying raw data
 - Training Ham/Spam Email Classifiers
 
-Link to [dataset used]
+Link to [Test-Train dataset used](https://drive.google.com/open?id=1kqEdyjozCruAteq1xh2U6Y8GZYh-RrSU)
 ### Main Parts 
 - Part 1 - Most Common Words Extraction
 - Part 2 - Feature Extraction
